@@ -1,6 +1,6 @@
 /// <reference types="cypress" />
 
-//This automation is created and tested for the following website: https://contacts-dashboard-arnob.vercel.app/ for a job assessment test. The project source code is available at: https://github.com/arnobt78/Contacts-Dashboard--Job-Assessment-Project-1
+//This automation is created and tested for the following website: https://contacts-dashboard-arnob.vercel.app/ for a job assessment test.
 
 describe('My First Assessment Test Suite', function () {
   it('First Test Case', function () {
